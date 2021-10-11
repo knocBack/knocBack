@@ -3,7 +3,7 @@
 - 🌱 I’m currently into Modern Operating Systems and Cryptography;
 - 💞️ I’m looking to collaborate on ...
 - 📫 Ping me at mpkumar1263@gmail.com!
-- 🎱 [Compititive Coding](https://codeforces.com/profile/knocBack) made me learn C, C++, Python and I also participate in [captureTheFlag](https://play.picoctf.org/) and [hackTheBox](https://app.hackthebox.eu/) contests.
+- 😵 [Compititive Coding](https://codeforces.com/profile/knocBack) made me learn C, C++, Python and I also participate in [captureTheFlag](https://play.picoctf.org/) and [hackTheBox](https://app.hackthebox.eu/) contests.
 - ✨ I've completed milestone 3 in [GoogleCloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/) and my Qwiklabs Public profile [Link](https://www.qwiklabs.com/public_profiles/dc23b8da-f7b2-40e4-88ee-56091370969b). 
 
 
