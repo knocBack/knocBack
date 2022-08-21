@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashanth
 - 👀 I’m interested in Learning New and exploring the Domain of Computer Science;
-- 🌱 I’m currently into AI and ML;
+- 🌱 I’m currently into Data Science;
 - 💞️ I’m looking to collaborate on ...
 - 📫 Ping me at mpkumar1263@gmail.com!
 - 😵 [Compititive Coding](https://codeforces.com/profile/knocBack) made me learn C, C++, Python and I also participate in [captureTheFlag](https://play.picoctf.org/) and [hackTheBox](https://app.hackthebox.eu/) contests.
